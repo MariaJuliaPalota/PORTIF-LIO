@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">img</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/PORTIF-LIO/html/Objetivos_e_proposito.html">Objetivos e propositos</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" a href="/PORTIF-LIO/html/Habilidades_e_competências.html">Habilidades e competências</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/PORTIF-LIO/html/Projetos_e_trabalhos.html">Projetos_e_trabalhos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="/PORTIF-LIO/html/Além_do_profissional.html">Além do profissional</a>
+          </li>
+
+        <li class="nav-item">
+          <a class="nav-link disabled"  href="/PORTIF-LIO/html/Contato.html" tabindex="-1" aria-disabled="true">Contato</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
